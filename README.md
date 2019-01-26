@@ -12,3 +12,4 @@ You will need Python to compile  and run the script. Find how to download Python
 1. Compile and run the script with Python:
     * `py rannamegen.py` with Command Prompt
     * `python3 rannamegen.py` with Terminal
+1. Keep running it until you find a name that you like
