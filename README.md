@@ -8,7 +8,7 @@ You will need Python to compile and run the script. Find how to download Python 
 1. Clone or download the project from Github
 1. Navigate to the directory you clone the project to using command line
 1. Compile and run the script with Python:
-    * `py rannamegen.py` with Command Prompt
+    * `python rannamegen.py` with Command Prompt
     * `python3 rannamegen.py` with Terminal
 1. A new window will open. Click the "Generate" button until you get a name that you like.
 
